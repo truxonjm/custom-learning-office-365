@@ -1,0 +1,120 @@
+{
+  "Technologies": [
+    {
+      "Id": "E410EB20-394D-4B25-95EF-F921C241A479",
+      "Name": "Individual Training and Development"
+    },
+    {
+      "Id": "C11F2AD9-F6D5-46C4-B93D-3DDD31571DB4",
+      "Name": "Museum Training"
+    },
+    {
+      "Id": "140780E3-AE53-4050-BD79-3EA5914C2F1C",
+      "Name": "General"
+    }
+  ],
+  "Categories": [
+    {
+      "Id": "8493D454-A16F-492C-8FF1-D6B9404552FF",
+      "Name": "Job Specific",
+      "TechnologyId": "E410EB20-394D-4B25-95EF-F921C241A479",
+      "Source": "CMoG",
+      "Image": "",
+      "SubCategories": []
+    },
+    {
+      "Id": "6A2AC6B9-E105-49EA-B1C1-B1281CAE9A9E",
+      "Name": "Other",
+      "TechnologyId": "E410EB20-394D-4B25-95EF-F921C241A479",
+      "Source": "CMoG",
+      "Image": "",
+      "SubCategories": []
+    },
+    {
+      "Id": "BBCFBADA-B28F-47D1-82D0-BF702DD815CC",
+      "Name": "Safety",
+      "TechnologyId": "C11F2AD9-F6D5-46C4-B93D-3DDD31571DB4",
+      "Source": "CMoG",
+      "Image": "",
+      "SubCategories": []
+    },
+    {
+      "Id": "41E68A35-2F68-4751-A556-C095254E64CA",
+      "Name": "Wellness",
+      "TechnologyId": "C11F2AD9-F6D5-46C4-B93D-3DDD31571DB4",
+      "Source": "CMoG",
+      "Image": "",
+      "SubCategories": []
+    },
+    {
+      "Id": "40C2D222-146D-4C12-AAC7-ECF8ABA2ADAA",
+      "Name": "Information Security",
+      "TechnologyId": "C11F2AD9-F6D5-46C4-B93D-3DDD31571DB4",
+      "Source": "CMoG",
+      "Image": "",
+      "SubCategories": []
+    },
+    {
+      "Id": "140D5625-D273-41A1-97EF-CBEB86116BB3",
+      "Name": "Technology",
+      "TechnologyId": "C11F2AD9-F6D5-46C4-B93D-3DDD31571DB4",
+      "Source": "CMoG",
+      "Image": "",
+      "SubCategories": []
+    },
+    {
+      "Id": "C90781AC-8208-4017-8C46-444E1A4374A4",
+      "Name": "Uncategorized",
+      "TechnologyId": "140780E3-AE53-4050-BD79-3EA5914C2F1C",
+      "Source": "CMoG",
+      "Image": "",
+      "SubCategories": []
+    }
+  ],
+  "Audiences": [
+    {
+      "Id": "5114B28C-2814-46A8-B46E-CC3F7F860A97",
+      "Name": "All Staff"
+    },
+    {
+      "Id": "F193C99B-DE56-4FA1-AF96-ED4F13E609E6",
+      "Name": "Site Owners"
+    },
+    {
+      "Id": "85588FD0-7D97-4EF1-8133-F3F0A1FFE85E",
+      "Name": "Content Stewards"
+    },
+    {
+      "Id": "79024A69-A985-4A97-84F7-BE5C5FC7E520",
+      "Name": "Managers"
+    }
+  ],
+  "Sources": [
+    "Litmos",
+    "Wombat"
+  ],
+  "Levels": [
+    {
+      "Id": "AB308EC5-2C20-444B-B305-7E204374B9C4",
+      "Name": "Beginner"
+    },
+    {
+      "Id": "B212B9BD-6692-4AF3-BA4E-BA23740CAC9E",
+      "Name": "Intermediate"
+    },
+    {
+      "Id": "866D940D-0D12-4A5B-AE20-61DD1F6CF4F8",
+      "Name": "Advanced"
+    }
+  ],
+  "StatusTag": [
+    {
+      "Id": "E4F0CDB4-54CB-41BF-9B87-7263472C1BB9",
+      "Name": "New"
+    },
+    {
+      "Id": "DDBDA23F-6E67-4A2C-A1D6-BCBC86AC98B1",
+      "Name": "Updated"
+    }
+  ]
+}
