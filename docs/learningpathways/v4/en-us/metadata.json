@@ -402,10 +402,6 @@
   ],
   "Audiences": [
     {
-      "Id": "cfcd26c3-bcca-4452-a40a-f87e0daed348",
-      "Name": "MadAdmin"
-    },
-    {
       "Id": "B1779dd0-ae42-4a62-8b66-bd87c137f4ac",
       "Name": "ASDFHelpDesk"
     },
