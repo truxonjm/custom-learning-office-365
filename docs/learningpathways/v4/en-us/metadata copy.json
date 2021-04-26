@@ -1,0 +1,65 @@
+{
+  "Technologies": [
+    {
+      "Id": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
+      "Name": "Excel",
+      "Subjects": []
+    }
+  ],
+  "Categories": [
+    {
+      "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
+      "Name": "Get started",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "SubCategories": []
+    }
+  ],
+  "Audiences": [
+    {
+      "Id": "a8787978-0ee5-4bc6-9c2c-eb11fc47cbfd",
+      "Name": "Group Owner"
+    },
+    {
+      "Id": "e2fce8e0-2014-4e36-81a5-0723b85958f8",
+      "Name": "Site Sponsor"
+    },
+    {
+      "Id": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+      "Name": "All"
+    }
+  ],
+  "Sources": [
+    "SOC",
+    "FastTrack",
+    "M365",
+    "Microsoft",
+    "LinkedIn"
+  ],
+  "Levels": [
+    {
+      "Id": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+      "Name": "Beginner"
+    },
+    {
+      "Id": "ab49a955-3814-41fa-aa33-1b2757bc28ea",
+      "Name": "Intermediate"
+    },
+    {
+      "Id": "fbc841eb-1082-4c27-b13b-f7965947cb16",
+      "Name": "Advanced"
+    }
+  ],
+  "StatusTag": [
+    {
+      "Id": "c11c485b-496d-479b-88a3-1744a7a028d7",
+      "Name": "New"
+    },
+    {
+      "Id": "9d1fab25-ed9c-404e-941b-41e428d18726",
+      "Name": "Updated"
+    }
+  ]
+}

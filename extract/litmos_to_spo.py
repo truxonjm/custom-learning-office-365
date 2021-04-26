@@ -30,7 +30,10 @@ def exceptions_monitored( logger ):
             try:
                 return func(*args, **kwargs) 
             except Exception as e:
-                issue = {"result":"Error", "function": f"{func.__name__}", "message":repr(e), "traceback":traceback.format_exc()} 
+                tb = None
+                try: tb = e.traceback.format_exc() 
+                except: pass            
+                issue = {"result":"Error", "function": f"{func.__name__}", "message":repr(e), "traceback":tb} 
                 logger.exception(msg="[ERROR]", extra=issue)
             raise              
           
@@ -195,7 +198,10 @@ class Endpoint(Resource):
            
         except Exception as e:
             print(f"Exception: {repr(e)}")
-            return {"result":"Error", "message":repr(e), "traceback":e.traceback.format_exc()}
+            tb = None
+            try: tb = e.traceback.format_exc() 
+            except: pass            
+            return {"result":"Error", "message":repr(e), "traceback":tb}
         return result
                     
     def get(self):
