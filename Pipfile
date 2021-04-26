@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+requests = "*"
+pyodbc = "*"
+datetime = "*"
+"dict2xml" = "*"
+argparse = "*"
+pyinstaller = "*"
+pytest = "*"
+ratelimit = "*"
+flask = "*"
+flask-restplus = "*"
+lxml = "*"
+werkzeug = "==0.16.1"
+python-dotenv = "*"
+
+[dev-packages]
+pytest = "*"
