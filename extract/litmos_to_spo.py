@@ -162,7 +162,7 @@ class Class_Extractor():
                     
     def Extract_Courses(self):
         assets = recordset(*runsql("exec [REPORT_Extract_Courses_For_SharePoint] "))
-        with open(f'{self.output_root}\assets.json','w') as f:
+        with open(f'{self.output_root}\\assets.json','w') as f:
             f.write(json.dumps(assets, indent=2))
         metadata={
                     "Technologies": recordset(*runsql("select * from SPO_Technologies")),
@@ -172,7 +172,7 @@ class Class_Extractor():
                     "Levels": recordset(*runsql("select * from SPO_Levels")),
                     "StatusTag": recordset(*runsql("select * from SPO_StatusTags"))
                 } 
-        with open(f'{self.output_root}\metadata.json','w') as f:
+        with open(f'{self.output_root}\\metadata.json','w') as f:
             f.write(json.dumps(metadata, indent=2))
             
         return True
