@@ -47,25 +47,25 @@
   ],
   "Levels": [
     {
-      "Id": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+      "Id": "AB308EC5-2C20-444B-B305-7E204374B9C4",
       "Name": "Beginner"
     },
     {
-      "Id": "ab49a955-3814-41fa-aa33-1b2757bc28ea",
+      "Id": "B212B9BD-6692-4AF3-BA4E-BA23740CAC9E",
       "Name": "Intermediate"
     },
     {
-      "Id": "fbc841eb-1082-4c27-b13b-f7965947cb16",
+      "Id": "866D940D-0D12-4A5B-AE20-61DD1F6CF4F8",
       "Name": "Advanced"
     }
   ],
   "StatusTag": [
     {
-      "Id": "c11c485b-496d-479b-88a3-1744a7a028d7",
+      "Id": "E4F0CDB4-54CB-41BF-9B87-7263472C1BB9",
       "Name": "New"
     },
     {
-      "Id": "9d1fab25-ed9c-404e-941b-41e428d18726",
+      "Id": "DDBDA23F-6E67-4A2C-A1D6-BCBC86AC98B1",
       "Name": "Updated"
     }
   ]
