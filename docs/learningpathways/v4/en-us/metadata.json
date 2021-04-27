@@ -15,12 +15,59 @@
   ],
   "Categories": [
     {
-      "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
-      "Name": "Get started",
+      "Id": "8493D454-A16F-492C-8FF1-D6B9404552FF",
+      "Name": "Job Specific",
+      "TechnologyId": "E410EB20-394D-4B25-95EF-F921C241A479",
+      "Source": "CMoG",
       "Image": "",
-      "TechnologyId": "",
-      "SubjectId": "",
-      "Source": "Microsoft",
+      "SubCategories": []
+    },
+    {
+      "Id": "6A2AC6B9-E105-49EA-B1C1-B1281CAE9A9E",
+      "Name": "Other",
+      "TechnologyId": "E410EB20-394D-4B25-95EF-F921C241A479",
+      "Source": "CMoG",
+      "Image": "",
+      "SubCategories": []
+    },
+    {
+      "Id": "BBCFBADA-B28F-47D1-82D0-BF702DD815CC",
+      "Name": "Safety",
+      "TechnologyId": "C11F2AD9-F6D5-46C4-B93D-3DDD31571DB4",
+      "Source": "CMoG",
+      "Image": "",
+      "SubCategories": []
+    },
+    {
+      "Id": "41E68A35-2F68-4751-A556-C095254E64CA",
+      "Name": "Wellness",
+      "TechnologyId": "C11F2AD9-F6D5-46C4-B93D-3DDD31571DB4",
+      "Source": "CMoG",
+      "Image": "",
+      "SubCategories": []
+    },
+    {
+      "Id": "40C2D222-146D-4C12-AAC7-ECF8ABA2ADAA",
+      "Name": "Information Security",
+      "TechnologyId": "C11F2AD9-F6D5-46C4-B93D-3DDD31571DB4",
+      "Source": "CMoG",
+      "Image": "",
+      "SubCategories": []
+    },
+    {
+      "Id": "140D5625-D273-41A1-97EF-CBEB86116BB3",
+      "Name": "Technology",
+      "TechnologyId": "C11F2AD9-F6D5-46C4-B93D-3DDD31571DB4",
+      "Source": "CMoG",
+      "Image": "",
+      "SubCategories": []
+    },
+    {
+      "Id": "C90781AC-8208-4017-8C46-444E1A4374A4",
+      "Name": "Uncategorized",
+      "TechnologyId": "140780E3-AE53-4050-BD79-3EA5914C2F1C",
+      "Source": "CMoG",
+      "Image": "",
       "SubCategories": []
     }
   ],
