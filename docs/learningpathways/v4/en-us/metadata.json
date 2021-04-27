@@ -26,24 +26,25 @@
   ],
   "Audiences": [
     {
-      "Id": "a8787978-0ee5-4bc6-9c2c-eb11fc47cbfd",
-      "Name": "Group Owner"
+      "Id": "5114B28C-2814-46A8-B46E-CC3F7F860A97",
+      "Name": "All Staff"
     },
     {
-      "Id": "e2fce8e0-2014-4e36-81a5-0723b85958f8",
-      "Name": "Site Sponsor"
+      "Id": "F193C99B-DE56-4FA1-AF96-ED4F13E609E6",
+      "Name": "Site Owners"
     },
     {
-      "Id": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
-      "Name": "All"
+      "Id": "85588FD0-7D97-4EF1-8133-F3F0A1FFE85E",
+      "Name": "Content Stewards"
+    },
+    {
+      "Id": "79024A69-A985-4A97-84F7-BE5C5FC7E520",
+      "Name": "Managers"
     }
   ],
   "Sources": [
-    "SOC",
-    "FastTrack",
-    "M365",
-    "Microsoft",
-    "LinkedIn"
+    "Litmos",
+    "Wombat"
   ],
   "Levels": [
     {
