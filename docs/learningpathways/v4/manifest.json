@@ -23,6 +23,15 @@
     "https://docs.microsoft.com"
   ],
   "Languages": [
-    "en-US"
+    "en-US",
+    "de-DE",
+    "es-ES",
+    "fr-FR",
+    "it-IT",
+    "ja-JP",
+    "nl-NL",
+    "pt-BR",
+    "ru-RU",
+    "zh-CN"
   ]
 }
