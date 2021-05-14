@@ -23,7 +23,17 @@
       "TechnologyId": "E410EB20-394D-4B25-95EF-F921C241A479",
       "Source": "CMoG",
       "Image": "",
-      "SubCategories": []
+      "SubCategories": [
+        {
+          "Id": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
+          "Name": "First Playlists",
+          "Image": "images/categories/first_days.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "CMoG",
+          "SubCategories": []
+        }
+      ]
     },
     {
       "Id": "6A2AC6B9-E105-49EA-B1C1-B1281CAE9A9E",
